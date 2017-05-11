@@ -1,5 +1,5 @@
 # simpleUI
 A Simple User Interface built with CSS and HTML
 
-# Clone
+## Clone
 `https://www.questarter.com`
